@@ -5,3 +5,4 @@ You can find tons of 3D models online and can easily upload them to the builder.
 To acces the code for the Scene. Go to /src/game.ts.
 Pictures inside the sceane are and example of how you can show your NFTs and advertise them.
 Please see Campus.jpg to have an idea of how it looks.
+![Campus](https://user-images.githubusercontent.com/91844243/177565450-40b131b9-ac5e-42ee-b055-251addfd69b8.jpg)
