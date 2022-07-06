@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paz Bus
+* source:	https://sketchfab.com/3d-models/paz-bus-f895bb31d5d244f6828608f438189993
+* author:	Yo.Ri (https://sketchfab.com/grox777)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paz Bus" (https://sketchfab.com/3d-models/paz-bus-f895bb31d5d244f6828608f438189993) by Yo.Ri (https://sketchfab.com/grox777) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

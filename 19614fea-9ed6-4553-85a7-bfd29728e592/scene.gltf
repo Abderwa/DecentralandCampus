@@ -1,0 +1,972 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1018,
+      "max": [
+        6.815589904785156,
+        17.228559494018555,
+        9.852749824523926
+      ],
+      "min": [
+        -6.684410095214844,
+        -17.521440505981445,
+        0.15240000188350677
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12216,
+      "componentType": 5126,
+      "count": 1018,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1644,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24432,
+      "componentType": 5126,
+      "count": 799,
+      "max": [
+        6.765590190887451,
+        17.178560256958008,
+        7.052750110626221
+      ],
+      "min": [
+        -6.684410095214844,
+        -17.521440505981445,
+        0.15240000188350677
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34020,
+      "componentType": 5126,
+      "count": 799,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6576,
+      "componentType": 5125,
+      "count": 1227,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43608,
+      "componentType": 5126,
+      "count": 3667,
+      "max": [
+        6.905590057373047,
+        17.318559646606445,
+        8.362750053405762
+      ],
+      "min": [
+        -6.8244099617004395,
+        -17.92144012451172,
+        1.152400016784668
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 87612,
+      "componentType": 5126,
+      "count": 3667,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11484,
+      "componentType": 5125,
+      "count": 5715,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 131616,
+      "componentType": 5126,
+      "count": 4174,
+      "max": [
+        6.815589904785156,
+        17.228559494018555,
+        9.952750205993652
+      ],
+      "min": [
+        -6.684410095214844,
+        -17.521440505981445,
+        0.15240000188350677
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 181704,
+      "componentType": 5126,
+      "count": 4174,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34344,
+      "componentType": 5125,
+      "count": 8970,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 231792,
+      "componentType": 5126,
+      "count": 488,
+      "max": [
+        6.685589790344238,
+        17.098560333251953,
+        6.852749824523926
+      ],
+      "min": [
+        -6.584410190582275,
+        -17.421449661254883,
+        0.3387100100517273
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 237648,
+      "componentType": 5126,
+      "count": 488,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 70224,
+      "componentType": 5125,
+      "count": 732,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 243504,
+      "componentType": 5126,
+      "count": 2370,
+      "max": [
+        6.815589904785156,
+        17.70355987548828,
+        12.65447998046875
+      ],
+      "min": [
+        -6.534409999847412,
+        -17.221450805664063,
+        -0.1158600002527237
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 271944,
+      "componentType": 5126,
+      "count": 2370,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73152,
+      "componentType": 5125,
+      "count": 6948,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 300384,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        7.1155900955200195,
+        17.728559494018555,
+        4.727399826049805
+      ],
+      "min": [
+        -6.6344099044799805,
+        -8.421440124511719,
+        -0.04543000087141991
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 301824,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 100944,
+      "componentType": 5125,
+      "count": 228,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 303264,
+      "componentType": 5126,
+      "count": 488,
+      "max": [
+        6.815589904785156,
+        17.228559494018555,
+        9.952750205993652
+      ],
+      "min": [
+        -6.334410190582275,
+        -8.421440124511719,
+        0.15240000188350677
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 309120,
+      "componentType": 5126,
+      "count": 488,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 101856,
+      "componentType": 5125,
+      "count": 834,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 314976,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        6.6155900955200195,
+        17.128559112548828,
+        9.952750205993652
+      ],
+      "min": [
+        -6.434410095214844,
+        -17.221450805664063,
+        7.552750110626221
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 315216,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.9999999403953552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 105192,
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 315456,
+      "componentType": 5126,
+      "count": 330,
+      "max": [
+        2.7398200035095215,
+        6.076889991760254,
+        8.911669731140137
+      ],
+      "min": [
+        0.3398300111293793,
+        -0.8731099963188171,
+        7.4108099937438965
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 319416,
+      "componentType": 5126,
+      "count": 330,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.1477137804031372
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 105384,
+      "componentType": 5125,
+      "count": 1206,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 323376,
+      "componentType": 5126,
+      "count": 58,
+      "max": [
+        0.13451999425888062,
+        -17.057580947875977,
+        12.756460189819336
+      ],
+      "min": [
+        -0.00547999981790781,
+        -17.197580337524414,
+        12.616459846496582
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 324072,
+      "componentType": 5126,
+      "count": 58,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 110208,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 324768,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        -5.984409809112549,
+        -16.77145004272461,
+        1.902940034866333
+      ],
+      "min": [
+        -6.6994099617004395,
+        -17.486440658569336,
+        1.6029399633407593
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 325248,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 111552,
+      "componentType": 5125,
+      "count": 60,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "citybuildernik (https://sketchfab.com/citybuildernik)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/crossroads-communitytown-hall-wip-4fbb081388e042da98229aebce06f094",
+      "title": "Crossroads Community/Town Hall (WIP)"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 111792,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 325728,
+      "byteOffset": 111792,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 437520,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Brown_Brick",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1012324895711263,
+          0.04804137901695693,
+          0.03340874148628448,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Tan_Brick",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6839825732109333,
+          0.4319558207982155,
+          0.15703813071605754,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Bleached_Concrete",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "White_Paint",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Window",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.025449134409427643,
+          0.09033316373825073,
+          0.14731350541114807,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Metallic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2870715660910541,
+          0.2870715660910541,
+          0.2870715660910541,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Concrete",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.381591182672846,
+          0.381591182672846,
+          0.381591182672846,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Tan_Stucco",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.640000066757203,
+          0.47743273492802274,
+          0.3162334489261127,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Roof",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.30776143532635913,
+          0.32157440664730075,
+          0.22852633339950934,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.24449787504222797,
+          0.26745834749129926,
+          0.26745834749129926,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Flagstaff_Truck",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.45637574875914666,
+          0.22769050937429824,
+          0.0057976514964945824,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Aged_Plaque",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.03906396089589537,
+          0.06971178754734675,
+          0.05558288180206539,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Crossroads Town / Community Hall_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_5",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_6",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_7",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_8",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 26,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_9",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 28,
+            "POSITION": 27
+          },
+          "indices": 29,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_10",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30
+          },
+          "indices": 32,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Town / Community Hall_11",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 34,
+            "POSITION": 33
+          },
+          "indices": 35,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Crossroads Town / Community Hall"
+    },
+    {
+      "mesh": 0,
+      "name": "Crossroads Town / Community Hall_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Crossroads Town / Community Hall_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Crossroads Town / Community Hall_2"
+    },
+    {
+      "mesh": 3,
+      "name": "Crossroads Town / Community Hall_3"
+    },
+    {
+      "mesh": 4,
+      "name": "Crossroads Town / Community Hall_4"
+    },
+    {
+      "mesh": 5,
+      "name": "Crossroads Town / Community Hall_5"
+    },
+    {
+      "mesh": 6,
+      "name": "Crossroads Town / Community Hall_6"
+    },
+    {
+      "mesh": 7,
+      "name": "Crossroads Town / Community Hall_7"
+    },
+    {
+      "mesh": 8,
+      "name": "Crossroads Town / Community Hall_8"
+    },
+    {
+      "mesh": 9,
+      "name": "Crossroads Town / Community Hall_9"
+    },
+    {
+      "mesh": 10,
+      "name": "Crossroads Town / Community Hall_10"
+    },
+    {
+      "mesh": 11,
+      "name": "Crossroads Town / Community Hall_11"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

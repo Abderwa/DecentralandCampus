@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olin and Preston Building v1
+* source:	https://sketchfab.com/3d-models/olin-and-preston-building-v1-eca1b923d1ca4959a905656f7b8c8894
+* author:	alaynaricard (https://sketchfab.com/alaynaricard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olin and Preston Building v1" (https://sketchfab.com/3d-models/olin-and-preston-building-v1-eca1b923d1ca4959a905656f7b8c8894) by alaynaricard (https://sketchfab.com/alaynaricard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
